@@ -1,4 +1,5 @@
-# **Amarjeet kumar**
+## Hey there ,  I am Amarjeet 
+ I have built a template of HTML and CSS project using my core css skills 
 ## About my Project
 - This is my first project of HTML and CSS .
 - In this project i am created   a  Simple front page by using HTML and CSS only.
@@ -14,3 +15,6 @@
 ## Link of my project .
 - By clicking on below link you can see my web-page of this project on Nestlify .
 - [Live Link....](https://project-01-a-simple-home-page.netlify.app/)
+
+## Screenshot of my web page.
+ ![Image](./assets/my-page.jpg)
