@@ -14,7 +14,7 @@
 
 ## Link of my project .
 - By clicking on below link you can see my web-page of this project on Nestlify .
-- [Live Link....](https://project-01-a-simple-home-page.netlify.app/)
+- [Live Link....](https://project-01-street-style-landing-page.netlify.app/)
 
 ## Screenshot of my web page.
  ![Image](./assets/my-page.jpg)
